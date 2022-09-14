@@ -1,0 +1,131 @@
+ul{
+    list-style-type: none;
+}
+
+li{
+    float: right;
+    margin-right: 10%;
+    
+    
+}
+a{
+    text-decoration: none;
+    font-family: Oswald;
+    color: black;
+    height: 20%;
+   
+}
+
+.image{
+    float: left;
+    
+}
+
+/*img{
+    height: 7vh;
+    margin-left: 10rem;
+}*/
+
+
+
+.navigation{
+    height: 7vh;
+    width: 100%;
+    
+}
+
+.width{
+    max-width: 500px !important;
+}
+
+
+
+
+.image img{
+    height: 7vh;
+    width: 100%;
+}
+
+.card{
+    
+    height: 3vh;
+}
+
+h1{
+    font-family: Bebas Neue;
+    
+    font-weight: bolder;
+    margin-left: 150px;
+    
+}
+
+.mycards{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.images{
+    
+    display: block;
+    margin: auto;
+}
+
+.cardimg{
+    height: 300px;
+    width: 500px;
+}
+
+.slideimg{
+    height: 500px;
+}
+
+.navpos{
+    position: fixed;
+}
+
+
+
+.card-header{
+    font-family: Roboto Condensed;
+    font-weight: bold;
+}
+
+.card-text{
+    font-size: small;
+}
+
+.options{
+    display: flex;
+
+}
+
+.options img{
+    filter: invert();
+}
+
+.options1{
+    display: flex;
+
+}
+
+.options1 img{
+    filter: invert();
+}
+
+.options2{
+    display: flex;
+
+}
+
+.options2 img{
+    filter: invert();
+}
+
+.option3{
+    display: flex;
+}
+
+.option3 img{
+    filter: invert();
+}
